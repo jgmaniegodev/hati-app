@@ -5,7 +5,7 @@
 
 ## Commands
 - Test: pytest -q
-- Lint: ruff
+- Lint: ruff check .
 
 ## Conventions
 - Money is Decimal, never float
